@@ -1,0 +1,5 @@
+C:\Development\TwitterFeed\AG.Common\bin\Debug\AG.TwitterFeed.Common.dll
+C:\Development\TwitterFeed\AG.Common\bin\Debug\AG.TwitterFeed.Common.pdb
+C:\Development\TwitterFeed\AG.Common\obj\Debug\AG.TwitterFeed.Common.dll
+C:\Development\TwitterFeed\AG.Common\obj\Debug\AG.TwitterFeed.Common.pdb
+C:\Development\TwitterFeed\AG.Common\obj\Debug\AG.TwitterFeed.Common.csprojResolveAssemblyReference.cache

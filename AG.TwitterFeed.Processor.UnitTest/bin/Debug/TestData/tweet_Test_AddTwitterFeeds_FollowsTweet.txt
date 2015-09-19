@@ -1,0 +1,3 @@
+Alan> If you have a procedure with 10 parameters, you probably missed some.
+John> Today's weather is great. Thanks.
+Alan> If you have a procedure with 2 parameters, you probably missed some.

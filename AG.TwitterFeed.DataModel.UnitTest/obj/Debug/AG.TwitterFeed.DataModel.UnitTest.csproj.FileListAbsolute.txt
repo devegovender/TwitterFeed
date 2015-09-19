@@ -1,0 +1,10 @@
+C:\Development\TwitterFeed\AG.TwitterFeed.DataModel.UnitTest\bin\Debug\AG.TwitterFeed.DataModel.UnitTest.dll
+C:\Development\TwitterFeed\AG.TwitterFeed.DataModel.UnitTest\bin\Debug\AG.TwitterFeed.DataModel.UnitTest.pdb
+C:\Development\TwitterFeed\AG.TwitterFeed.DataModel.UnitTest\obj\Debug\AG.TwitterFeed.DataModel.UnitTest.csprojResolveAssemblyReference.cache
+C:\Development\TwitterFeed\AG.TwitterFeed.DataModel.UnitTest\obj\Debug\AG.TwitterFeed.DataModel.UnitTest.dll
+C:\Development\TwitterFeed\AG.TwitterFeed.DataModel.UnitTest\obj\Debug\AG.TwitterFeed.DataModel.UnitTest.pdb
+C:\Development\TwitterFeed\AG.TwitterFeed.DataModel.UnitTest\bin\Debug\AG.TwitterFeed.DataModel.dll
+C:\Development\TwitterFeed\AG.TwitterFeed.DataModel.UnitTest\bin\Debug\AG.TwitterFeed.DataModel.pdb
+C:\Development\TwitterFeed\AG.TwitterFeed.DataModel.UnitTest\bin\Debug\AG.TwitterFeed.Common.dll
+C:\Development\TwitterFeed\AG.TwitterFeed.DataModel.UnitTest\bin\Debug\AG.TwitterFeed.Common.pdb
+C:\Development\TwitterFeed\AG.TwitterFeed.DataModel.UnitTest\bin\Debug\AG.TwitterFeed.DataModel.UnitTest.dll.config

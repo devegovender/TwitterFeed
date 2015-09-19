@@ -1,0 +1,2 @@
+Alan> If you have a procedure with 10 parameters, you probably missed some.
+Alan> If you have a procedure with 2 parameters, you probably missed some.

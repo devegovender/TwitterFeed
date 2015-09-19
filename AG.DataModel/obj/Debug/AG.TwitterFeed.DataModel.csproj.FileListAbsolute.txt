@@ -1,0 +1,7 @@
+C:\Development\TwitterFeed\AG.DataModel\bin\Debug\AG.TwitterFeed.DataModel.dll
+C:\Development\TwitterFeed\AG.DataModel\bin\Debug\AG.TwitterFeed.DataModel.pdb
+C:\Development\TwitterFeed\AG.DataModel\obj\Debug\AG.TwitterFeed.DataModel.dll
+C:\Development\TwitterFeed\AG.DataModel\obj\Debug\AG.TwitterFeed.DataModel.pdb
+C:\Development\TwitterFeed\AG.DataModel\obj\Debug\AG.TwitterFeed.DataModel.csprojResolveAssemblyReference.cache
+C:\Development\TwitterFeed\AG.DataModel\bin\Debug\AG.TwitterFeed.Common.dll
+C:\Development\TwitterFeed\AG.DataModel\bin\Debug\AG.TwitterFeed.Common.pdb

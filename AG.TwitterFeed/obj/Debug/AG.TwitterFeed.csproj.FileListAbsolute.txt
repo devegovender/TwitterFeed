@@ -1,0 +1,12 @@
+C:\Development\TwitterFeed\AG.TwitterFeed\bin\Debug\AG.TwitterFeed.exe.config
+C:\Development\TwitterFeed\AG.TwitterFeed\obj\Debug\AG.TwitterFeed.csprojResolveAssemblyReference.cache
+C:\Development\TwitterFeed\AG.TwitterFeed\bin\Debug\AG.TwitterFeed.exe
+C:\Development\TwitterFeed\AG.TwitterFeed\bin\Debug\AG.TwitterFeed.pdb
+C:\Development\TwitterFeed\AG.TwitterFeed\bin\Debug\AG.TwitterFeed.Common.dll
+C:\Development\TwitterFeed\AG.TwitterFeed\bin\Debug\AG.TwitterFeed.Processor.dll
+C:\Development\TwitterFeed\AG.TwitterFeed\bin\Debug\AG.TwitterFeed.DataModel.dll
+C:\Development\TwitterFeed\AG.TwitterFeed\bin\Debug\AG.TwitterFeed.Common.pdb
+C:\Development\TwitterFeed\AG.TwitterFeed\bin\Debug\AG.TwitterFeed.Processor.pdb
+C:\Development\TwitterFeed\AG.TwitterFeed\bin\Debug\AG.TwitterFeed.DataModel.pdb
+C:\Development\TwitterFeed\AG.TwitterFeed\obj\Debug\AG.TwitterFeed.exe
+C:\Development\TwitterFeed\AG.TwitterFeed\obj\Debug\AG.TwitterFeed.pdb

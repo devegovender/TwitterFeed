@@ -1,0 +1,4 @@
+C:\Development\TwitterFeed\AG.Common.UnitTest\bin\Debug\AG.TwitterFeed.Common.UnitTest.dll
+C:\Development\TwitterFeed\AG.Common.UnitTest\bin\Debug\AG.TwitterFeed.Common.UnitTest.pdb
+C:\Development\TwitterFeed\AG.Common.UnitTest\obj\Debug\AG.TwitterFeed.Common.UnitTest.dll
+C:\Development\TwitterFeed\AG.Common.UnitTest\obj\Debug\AG.TwitterFeed.Common.UnitTest.pdb
